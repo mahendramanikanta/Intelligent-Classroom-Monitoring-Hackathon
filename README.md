@@ -423,7 +423,8 @@ Make sure the video is accessible to your intended reviewers. If permitted, conf
 
 ## 👨‍💻 Developer
 
-**Manikanta**
+**Manikanta Pathakoti**
+**P.Siddartha Goud**
 
 🔗 GitHub: [@mahendramanikanta](https://github.com/mahendramanikanta)
 
